@@ -1,0 +1,5 @@
+.env
+*.pem
+.aws/
+photos/
+__pycache__/
