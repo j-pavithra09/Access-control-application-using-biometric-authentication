@@ -1,0 +1,3 @@
+time,mode,decision,reason,similarity,seconds
+2026-11-14T13:58:56,quick,REQUEST_VERIFICATION,"low confidence, extra check needed",100.0,4.41
+2026-11-14T14:01:42,quick,DENY,"spoof cues: Visible screen bezel and frame edges around the face, Distinct rectangular display boundary, Screen glare and reflection patterns, Flat, 2D appearance typical of monitor/phone display, Image quality and compression consistent with screen capture, Unnatural lighting characteristic of backlit display",100.0,4.16
